@@ -2,7 +2,7 @@
 
 ## I'm a Junior Data Scientist | Data Science Student | Machine Learning Enthusiast
 
-Hey! I'm **Ephraim**, a **2nd-year BSc Data Science student** from **South Africa**, passionate about turning data into insights, building intelligent systems, and continuously developing my technical skills.
+Hey! I'm **Sekwati**, a **2nd-year BSc Data Science student** from **South Africa**, passionate about turning data into insights, building intelligent systems, and continuously developing my technical skills.
 
 I'm currently building my foundation across **Python, SQL, Statistics, Data Analysis, Machine Learning, and Data Visualisation**, while working on projects that allow me to apply what I learn to real-world problems.
 
@@ -47,6 +47,8 @@ My studies have introduced me to areas including:
 * Programming
 * Information Systems
 * Statistics
+* Linear Algebra
+* Calculus
 * Databases
 * Cloud Computing
 * Artificial Intelligence

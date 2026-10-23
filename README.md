@@ -1,404 +1,157 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Hi, I'm Sekwati
 
-## I'm a Junior Data Scientist | Data Science Student | Machine Learning Enthusiast
+### Data Science Student | Aspiring Data Scientist & Quantitative Analyst | South Africa 🇿🇦
 
-Hey! I'm **Sekwati**, a **2nd-year BSc Data Science student** from **South Africa**, passionate about turning data into insights, building intelligent systems, and continuously developing my technical skills.
+2nd-year **BSc Data Science** student at **Eduvos** who enjoys the place where **statistics, programming and decision-making meet**. I'm looking for **internships, graduate programmes and junior roles in data science, machine learning and quantitative analysis**.
 
-I'm currently building my foundation across **Python, SQL, Statistics, Data Analysis, Machine Learning, and Data Visualisation**, while working on projects that allow me to apply what I learn to real-world problems.
+I build projects to learn how to take a messy dataset, ask a sharp question, model it properly, and explain the result honestly, including its limits.
 
-This GitHub is a record of my journey — from university projects and data analysis notebooks to machine learning experiments and personal projects.
+---
+
+## 🎯 What I'm Looking For
+
+- 💼 Data Science / Data Analyst / ML internships and graduate roles
+- 📈 Quant research, quant analyst and quant developer internships or junior roles
+- 🤝 Mentorship, study groups and collaboration on data or finance projects
+
+**Open to:** internships · graduate programmes · junior roles · remote or South Africa-based opportunities
 
 ---
 
 ## 🧠 About Me
 
-I'm an aspiring **Data Scientist** who enjoys exploring how data can be used to understand problems, discover patterns, and support better decisions.
+I like problems where numbers have to be trusted: forecasting, risk, uncertainty, and finding signal in noise. My degree gives me a maths and statistics base, and I use GitHub to turn that theory into working code.
 
-I'm currently focused on developing practical skills in:
+**Currently strengthening:**
 
-* 🐍 **Python**
-* 🗄️ **SQL**
-* 📊 **Data Analysis**
-* 📈 **Data Visualisation**
-* 🤖 **Machine Learning**
-* 📐 **Statistics**
-* 🌍 **Geospatial Data & GIS**
-* ☁️ **Cloud Computing & AWS**
-* 🧠 **Artificial Intelligence**
-* 📓 **Jupyter Notebook**
-
-I'm still early in my journey, but my goal is to move beyond simply learning concepts and become someone who can **take a dataset, understand the problem, analyse the data, build a solution, and communicate the results clearly.**
-
-> **My goal:** Become a highly skilled data scientist capable of using data, technology, and AI to solve meaningful real-world problems.
+- Probability and statistical inference
+- Linear algebra and calculus for modelling
+- Time series analysis and forecasting
+- Monte Carlo simulation
+- Clean, reproducible Python
 
 ---
 
-# 🎓 Education
+## 🛠️ Technical Skills
 
-### BSc Data Science
+| Area | Tools & Concepts |
+|---|---|
+| **Languages** | Python, SQL |
+| **Data & Numerics** | Pandas, NumPy, SciPy |
+| **Statistics** | Hypothesis testing, regression, distributions, confidence intervals, EDA |
+| **Machine Learning** | Scikit-learn: regression, classification, clustering, model evaluation, feature engineering |
+| **Quant Foundations** | Probability, time series, Monte Carlo simulation, risk metrics (volatility, VaR), backtesting basics |
+| **Visualisation** | Matplotlib, Seaborn, Excel |
+| **Geospatial** | GIS, geospatial analysis and mapping |
+| **Tools** | Git & GitHub, Jupyter, VS Code, AWS (learning) |
 
-**Eduvos | South Africa**
-
-📚 **Currently in 2nd Year**
-
-My studies have introduced me to areas including:
-
-* Data Science
-* Programming
-* Information Systems
-* Statistics
-* Linear Algebra
-* Calculus
-* Databases
-* Cloud Computing
-* Artificial Intelligence
-* Machine Learning
-* Data Analysis
-* Data Visualisation
-
-I'm using GitHub to document my progress and turn my academic knowledge into practical projects.
+> 🔍 Skills above reflect what I'm actively using and practising. Each is linked to project work below as it's completed.
 
 ---
 
-# 🛠️ Technical Skills
+## 🚀 Projects
 
-### 🐍 Programming & Data
+> Replace the links and results below with your own as you finish each project. Real numbers and clear write-ups are what recruiters look for.
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
-* Jupyter Notebook
+### 📈 Quant & Finance Projects
 
-### 🗄️ Databases
+#### 1. Stock Return Analysis & Risk Metrics *(in progress)*
+Analysing historical share returns (e.g. JSE or US equities) to understand distributions, volatility and drawdowns.
+- Daily/log returns, rolling volatility, correlation matrices
+- Value at Risk (historical and parametric)
+- Testing whether returns are really normally distributed
 
-* SQL
-* Relational Databases
-* Data Cleaning
-* Data Querying
-* Data Transformation
+**Stack:** Python · Pandas · NumPy · SciPy · Matplotlib
+**Repo:** `[link]` · **Key finding:** `[add result]`
 
-### 📊 Data Science
+#### 2. Monte Carlo Simulation for Price Paths & Option Pricing *(planned)*
+Simulating asset price paths with geometric Brownian motion and pricing a European option, then comparing against Black-Scholes.
+- Convergence as the number of simulations grows
+- Sensitivity to volatility and time to expiry
 
-* Exploratory Data Analysis (EDA)
-* Data Cleaning
-* Feature Engineering
-* Statistical Analysis
-* Data Visualisation
-* Predictive Modelling
-* Model Evaluation
+**Stack:** Python · NumPy · Matplotlib
+**Repo:** `[link]`
 
-### 🤖 Machine Learning
+#### 3. Simple Strategy Backtest *(planned)*
+Backtesting a moving-average or mean-reversion strategy with transaction costs, and reporting Sharpe ratio, max drawdown and hit rate. The emphasis is on avoiding look-ahead bias and overfitting.
 
-Currently developing experience with:
+**Stack:** Python · Pandas · Matplotlib
+**Repo:** `[link]`
 
-* Regression
-* Classification
-* Clustering
-* Supervised Learning
-* Unsupervised Learning
-* Feature Selection
-* Model Evaluation
-* Data Preprocessing
+#### 4. Time Series Forecasting *(planned)*
+Comparing baseline, ARIMA and ML-based forecasts on a financial or economic series using proper walk-forward validation.
 
-### 🌍 Other Technologies
-
-* Git & GitHub
-* AWS
-* GIS / Geospatial Data
-* Microsoft Excel
-* VS Code
+**Stack:** Python · statsmodels · Scikit-learn
+**Repo:** `[link]`
 
 ---
 
-# 📚 Currently Learning
+### 📊 Data Science Projects
 
-As a 2nd-year Data Science student, I'm continuously expanding my knowledge.
+#### 🌍 Global Geospatial Data Analysis
+Exploring world datasets with Python and GIS to find geographic patterns and present them through maps and heat maps.
+**Stack:** Python · Pandas · NumPy · Matplotlib · GIS · Jupyter
 
-### 🔥 Current Focus
+#### 🎵 Music Streaming Analytics
+Turning streaming data into insight: listening trends, artist and track performance, genre analysis and user behaviour.
+**Stack:** Python · Pandas · SQL · Data Visualisation
 
-```text
-Python
-  ↓
-Data Analysis
-  ↓
-Statistics
-  ↓
-SQL & Databases
-  ↓
-Data Visualisation
-  ↓
-Machine Learning
-  ↓
-Artificial Intelligence
-  ↓
-Real-World Data Science Projects
-```
+#### 🤖 Machine Learning Workflow Projects
+Small end-to-end projects covering data preparation, EDA, feature engineering, model training, comparison and evaluation.
+**Stack:** Python · Pandas · NumPy · Scikit-learn · Matplotlib
 
-I'm particularly interested in understanding **how the different parts of Data Science connect together**, rather than learning each technology in isolation.
+#### 🎓 AI in Education & Responsible AI
+Exploring AI-powered student support and the ethics around it: bias, fairness, explainability and data privacy.
 
 ---
 
-# 🚀 Projects
+## 🔬 How I Approach a Problem
 
-## 🌍 Global Geospatial Data Analysis
-
-A Data Science project exploring datasets from around the world using **Python, GIS, and geospatial visualisation**.
-
-### What I'm exploring:
-
-* Global datasets
-* Geographic patterns
-* Data cleaning
-* Geospatial analysis
-* Heat maps
-* Data visualisation
-* Python-based GIS
-
-**Tech Stack:** Python • Pandas • NumPy • Matplotlib • GIS • Jupyter Notebook
+1. **Define the question** and what a good answer looks like
+2. **Collect and clean** the data, and document every assumption
+3. **Explore** distributions, outliers and relationships
+4. **Model** starting with a simple baseline
+5. **Validate properly** with out-of-sample or walk-forward testing
+6. **Communicate** results, uncertainty and limitations clearly
 
 ---
 
-## 🎵 Music Data Analytics
+## 🎓 Education
 
-Exploring how music streaming data can be transformed into meaningful analytics.
+**BSc Data Science** · Eduvos, South Africa · *Currently in 2nd year*
 
-Potential areas include:
-
-* Streaming behaviour
-* Listening trends
-* Artist performance
-* Track performance
-* Genre analysis
-* User listening patterns
-* Data visualisation
-
-**Tech Stack:** Python • Pandas • SQL • Data Visualisation
+Relevant coursework: Statistics · Linear Algebra · Calculus · Programming · Databases · Machine Learning · Artificial Intelligence · Data Analysis & Visualisation · Cloud Computing
 
 ---
 
-## 🤖 Machine Learning Projects
+## 📚 Currently Learning
 
-Building small machine learning projects to understand the complete ML workflow.
-
-### Areas I'm practising:
-
-* Dataset preparation
-* Exploratory Data Analysis
-* Feature engineering
-* Training models
-* Testing models
-* Measuring model performance
-* Comparing algorithms
-* Visualising predictions
-
-**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
+- [ ] Probability theory and stochastic processes
+- [ ] Time series (ARIMA, GARCH basics)
+- [ ] Advanced SQL (window functions, joins on large tables)
+- [ ] Statistical inference and regression diagnostics
+- [ ] Algorithm and data structure fundamentals (useful for quant interviews)
+- [ ] Cloud and AWS basics
 
 ---
 
-## 🎓 AI & Education
+## 🗺️ Goals
 
-Exploring the use of **Artificial Intelligence in education**, including intelligent student support systems and AI ethics.
+**Next 1–2 years:** finish my degree, land an internship, build a strong portfolio of well-documented projects, and get comfortable with SQL, statistics and time series.
 
-Areas of interest:
-
-* AI-powered education
-* Student support systems
-* Responsible AI
-* AI ethics
-* Explainable AI
-* Data privacy
-* Bias and fairness
-* Real-world AI impact
-
-This work has helped me understand that building an AI system isn't only about whether the model works — it's also about **how the system affects the people using it.**
+**3–5 years:** work as a data scientist or quantitative analyst on real, large-scale problems, with strong software engineering habits and production-quality code.
 
 ---
 
-# 📊 Data Science Workflow
+## 🤝 Let's Connect
 
-One of the workflows I'm learning to apply to my projects is:
+- 💼 LinkedIn: `[your link]`
+- 📧 Email: epraimnukere12@gmail.com
 
-```text
-        ┌─────────────────┐
-        │  Define Problem │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Collect Data    │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Clean Data      │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Explore Data    │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Visualise Data  │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Build Model     │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Evaluate Model  │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │ Communicate     │
-        │ Results         │
-        └─────────────────┘
-```
-
-I'm working toward being comfortable with the **entire pipeline**, not just the machine-learning stage.
+If you're hiring, mentoring, or just want to talk data, finance or ML, I'd love to hear from you.
 
 ---
 
-# 🎯 My Goals
+*"The goal isn't just to collect data. It's to understand it, learn from it, and use it to create something meaningful."*
 
-## 📌 Short-Term — 1–2 Years
-
-* Complete my BSc Data Science
-* Build a strong GitHub portfolio
-* Become confident with Python
-* Become proficient in SQL
-* Strengthen my statistics foundation
-* Build more machine-learning projects
-* Learn industry-standard data workflows
-* Gain practical experience through internships or junior roles
-* Contribute to open-source projects
-* Build projects using real-world datasets
-
----
-
-## 🚀 Mid-Term — 3–5 Years
-
-* Work professionally as a **Data Scientist / Machine Learning Engineer / Data Analyst**
-* Work with large and complex datasets
-* Develop production-level machine-learning systems
-* Improve my cloud and AWS skills
-* Work with real-world AI systems
-* Develop strong software engineering practices
-* Collaborate with experienced data professionals
-* Continue developing my knowledge of AI and emerging technologies
-
----
-
-## 🌍 Long-Term
-
-My long-term goal is to build technology that uses **data and AI to solve meaningful problems**, while continuing to grow as a technical professional.
-
-I want to eventually work on projects involving:
-
-* Artificial Intelligence
-* Machine Learning
-* Big Data
-* Data Engineering
-* Analytics
-* Geospatial Intelligence
-* Automation
-* AI-powered applications
-
----
-
-# 📈 GitHub Journey
-
-This profile is more than just a collection of repositories.
-
-It's my **Data Science journey**.
-
-You'll find projects ranging from university assignments and beginner experiments to increasingly complex projects as my skills develop.
-
-```text
-Beginner
-   ↓
-Learning
-   ↓
-Building
-   ↓
-Experimenting
-   ↓
-Solving Problems
-   ↓
-Real-World Projects
-   ↓
-Professional Data Scientist
-```
-
-I'm documenting the process along the way.
-
----
-
-# 💻 Tools & Technologies
-
-```text
-Languages
-├── Python
-└── SQL
-
-Data Science
-├── Pandas
-├── NumPy
-├── Scikit-learn
-└── Jupyter
-
-Visualisation
-├── Matplotlib
-├── Excel
-└── GIS
-
-Cloud
-└── AWS
-
-Development
-├── Git
-├── GitHub
-└── VS Code
-```
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in connecting with other students, developers, data scientists, researchers, and people working with AI and technology.
-
-I'm open to:
-
-* 💡 Project ideas
-* 🤝 Collaborations
-* 📊 Data Science projects
-* 🤖 AI & Machine Learning
-* 🌍 Open-source projects
-* 🎓 Student opportunities
-* 💼 Internship opportunities
-
----
-
-## 📫 Get In Touch
-
-**GitHub:** You're already here 😄
-
-Feel free to explore my repositories and follow my journey as I continue developing my skills in **Data Science, Machine Learning, AI, and Analytics**.
-
----
-
-> *"The goal isn't just to collect data. It's to understand it, learn from it, and use it to create something meaningful."*
-
----
-
-### 📌 Current Status
-
-🎓 BSc Data Science — Year 2
-🌍 South Africa
-🐍 Learning Python
-🗄️ Learning SQL
-📊 Building Data Projects
-🤖 Exploring Machine Learning
-🧠 Exploring AI
-🚀 Building My Portfolio
-
+🎓 BSc Data Science, Year 2 · 🌍 South Africa · 🐍 Python · 🗄️ SQL · 📈 Quant & Data Science · 🔎 Open to internships

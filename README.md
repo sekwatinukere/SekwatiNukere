@@ -51,8 +51,6 @@ I like problems where numbers have to be trusted: forecasting, risk, uncertainty
 
 ## 🚀 Projects
 
-> Replace the links and results below with your own as you finish each project. Real numbers and clear write-ups are what recruiters look for.
-
 ### 📈 Quant & Finance Projects
 
 #### 1. Stock Return Analysis & Risk Metrics *(in progress)*

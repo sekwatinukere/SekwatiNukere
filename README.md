@@ -143,7 +143,7 @@ Relevant coursework: Statistics · Linear Algebra · Calculus · Programming · 
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: `[your link]`
+- 💼 LinkedIn: www.linkedin.com/in/sekwati-nukere
 - 📧 Email: epraimnukere12@gmail.com
 
 If you're hiring, mentoring, or just want to talk data, finance or ML, I'd love to hear from you.

@@ -60,7 +60,7 @@ Analysing historical share returns (e.g. JSE or US equities) to understand distr
 - Testing whether returns are really normally distributed
 
 **Stack:** Python · Pandas · NumPy · SciPy · Matplotlib
-**Repo:** `[link]` · **Key finding:** `[add result]`
+**Repo:** · **Key finding:**
 
 #### 2. Monte Carlo Simulation for Price Paths & Option Pricing *(planned)*
 Simulating asset price paths with geometric Brownian motion and pricing a European option, then comparing against Black-Scholes.
@@ -68,19 +68,19 @@ Simulating asset price paths with geometric Brownian motion and pricing a Europe
 - Sensitivity to volatility and time to expiry
 
 **Stack:** Python · NumPy · Matplotlib
-**Repo:** `[link]`
+**Repo:** 
 
 #### 3. Simple Strategy Backtest *(planned)*
 Backtesting a moving-average or mean-reversion strategy with transaction costs, and reporting Sharpe ratio, max drawdown and hit rate. The emphasis is on avoiding look-ahead bias and overfitting.
 
 **Stack:** Python · Pandas · Matplotlib
-**Repo:** `[link]`
+**Repo:**
 
 #### 4. Time Series Forecasting *(planned)*
 Comparing baseline, ARIMA and ML-based forecasts on a financial or economic series using proper walk-forward validation.
 
 **Stack:** Python · statsmodels · Scikit-learn
-**Repo:** `[link]`
+**Repo:**
 
 ---
 
@@ -116,7 +116,7 @@ Exploring AI-powered student support and the ethics around it: bias, fairness, e
 
 ## 🎓 Education
 
-**BSc Data Science** · Eduvos, South Africa · *Currently in 2nd year*
+**BSc Data Science** · Eduvos, South Africa ·
 
 Relevant coursework: Statistics · Linear Algebra · Calculus · Programming · Databases · Machine Learning · Artificial Intelligence · Data Analysis & Visualisation · Cloud Computing
 
@@ -152,4 +152,4 @@ If you're hiring, mentoring, or just want to talk data, finance or ML, I'd love 
 
 *"The goal isn't just to collect data. It's to understand it, learn from it, and use it to create something meaningful."*
 
-🎓 BSc Data Science, Year 2 · 🌍 South Africa · 🐍 Python · 🗄️ SQL · 📈 Quant & Data Science · 🔎 Open to internships
+🎓 BSc Data Science · 🌍 South Africa · 🐍 Python · 🗄️ SQL · 📈 Quant & Data Science · 🔎 Open to internships

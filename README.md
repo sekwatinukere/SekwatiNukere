@@ -2,7 +2,7 @@
 
 ### Data Science Student | Aspiring Data Scientist & Quantitative Analyst | South Africa 🇿🇦
 
-2nd-year **BSc Data Science** student at **Eduvos** who enjoys the place where **statistics, programming and decision-making meet**. I'm looking for **internships, graduate programmes and junior roles in data science, machine learning and quantitative analysis**.
+**BSc Data Science** student at **Eduvos** who enjoys the place where **statistics, programming and decision-making meet**. I'm looking for **internships, graduate programmes and junior roles in data science, machine learning and quantitative analysis**.
 
 I build projects to learn how to take a messy dataset, ask a sharp question, model it properly, and explain the result honestly, including its limits.
 
